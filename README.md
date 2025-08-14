@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 who am I:
 👨‍💻 I am a self-taught programmer with 4 years of experience.<br>📚 I love developing myself and learning new things.<br>🎮 I am currently a Unity C# game developer.<br>💪 I have been dedicated to this for the past 2 years.<br>🕹️ I started with simple 2D games in various genres.<br>🌐 Now I am actively learning 3D game development and networking code.<br>🚀 My dream is to create a cooperative game in the style of Lethal Company and REPO.
 
 
