@@ -9,7 +9,7 @@
 
 ### Worked on:<br>
 👨‍💻 - 2 commercial projects<br>
-📚 - 4 game jam games<br>
+📚 - [4 game jam games](https://github.com/whyhvru?tab=repositories&q=gamejam)<br>
 
 ### 🌐 [My Links](https://whyhvru.github.io/site-social-links/)
 
