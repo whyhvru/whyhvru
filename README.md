@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=whyhvru.whyhvru&"  />
+  <img src="https://komarev.com/ghpvc/?username=whyhvru&color=blue"  />
 </div>
 
 ###
