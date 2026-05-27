@@ -2,26 +2,6 @@
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U0czVheDYyZWZuYTYxendhOGRwcXRiMnJkcGhhcGtsY3Rmd2g1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://t.me/whyhvru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://ssqd-prod.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
-  </a>
-  <a href="https://www.instagram.com/aitchanov.dk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=whyhvru&color=blue"  />
-</div>
-
-###
-
 <h1 align="center"><a href="https://whyhvru.github.io/site-social-links/">🌊 whyhvru</a></h1>
 
 <p align="center">👨‍💻 22 y.o. self-taught Unity / C# developer with 3+ years of programming experience.</p>
@@ -50,7 +30,23 @@
   </tr>
 </table>
 
-<h1 align="center">💻 Tech Stack</h1>
+<div align="center">
+  <a href="https://t.me/whyhvru" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://ssqd-prod.itch.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+  </a>
+  <a href="https://www.instagram.com/aitchanov.dk/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=whyhvru&color=blue"  />
+</div>
+
+<hr>
 
 <div align="center">
 
