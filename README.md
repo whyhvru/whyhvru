@@ -53,10 +53,18 @@
 
 <h1 align="center">💻 Tech Stack</h1>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="32" alt="C#" />
+<img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" height="32" alt="Unity" />
+<img src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=white" height="32" alt="Steam" />
+<img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" height="32" alt="itch.io" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="32" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" height="32" alt="Adobe Premiere Pro" />
+<img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=aseprite&logoColor=7D929E" height="32" alt="Aseprite" />
+
+</div>
+
+<p align="center">
+  <sub>Gameplay systems · Game architecture · Multiplayer · Tools</sub>
+</p>
