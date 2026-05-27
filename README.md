@@ -46,7 +46,7 @@
   <img src="https://komarev.com/ghpvc/?username=whyhvru&color=blue"  />
 </div>
 
-<hr>
+<hr style="height: 5px">
 
 <div align="center">
 
