@@ -20,23 +20,15 @@ with 3+ years of programming experience.<br><br>
 
 <div align="center">
   <a href="https://t.me/whyhvru">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"/>
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="telegram logo"/>
   </a>
   <a href="https://ssqd-prod.itch.io/">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="itch logo"/>
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="itch logo"/>
   </a>
   <a href="https://www.instagram.com/aitchanov.dk/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"/>
   </a>
 </div>
-
-<!-- profile views -->
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=whyhvru&color=blue"  />
-</div>
-
-<hr style="height: 5px">
 
 <!-- tech stack -->
 
@@ -48,6 +40,12 @@ with 3+ years of programming experience.<br><br>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="32" alt="Adobe Photoshop" />
 <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" height="32" alt="Adobe Premiere Pro" />
 <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=aseprite&logoColor=7D929E" height="32" alt="Aseprite" />
+</div>
+
+<!-- profile views -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=whyhvru&color=blue"  />
 </div>
 
 <!-- footer -->
