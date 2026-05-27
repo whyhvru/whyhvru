@@ -4,15 +4,17 @@
 
 <!-- about me -->
 
-<h1 align="center">whyhvru</h1>
+<h1>whyhvru</h1>
 
-<div align="center">
+<div>
 22 y.o. self-taught Unity / C# developer
 with 3+ years of programming experience.<br><br>
 
-💼 Worked on:<br>
-👨‍💻 2 commercial game projects<br>
-📚 4 game jam projects - <a href="https://github.com/whyhvru?tab=repositories&q=gamejam">click</a>
+💼 Worked on:
+- 👨‍💻 2 commercial game projects<br>
+- 📚 4 game jam projects - <a href="https://github.com/whyhvru?tab=repositories&q=gamejam">click</a>
+
+I love playing and making games. ❤️
 </div>
 
 <!-- tech stack -->
