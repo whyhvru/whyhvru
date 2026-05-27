@@ -18,14 +18,14 @@ with 3+ years of programming experience.<br>
 <!-- socials -->
 
 <div align="center">
-  <a href="https://t.me/whyhvru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="https://t.me/whyhvru">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"/>
   </a>
-  <a href="https://ssqd-prod.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+  <a href="https://ssqd-prod.itch.io/">
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="itch logo"/>
   </a>
-  <a href="https://www.instagram.com/aitchanov.dk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.instagram.com/aitchanov.dk/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"/>
   </a>
 </div>
 
