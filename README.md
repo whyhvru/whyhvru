@@ -1,4 +1,24 @@
-# 💫 Hi, I'm Didar 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=whyhvru.whyhvru&"  />
+</div>
+
+###
+
+<h1 align="center"><a href="https://whyhvru.github.io/site-social-links/">🌊 whyhvru</a></h1>
+
 👨‍💻 22 y.o. self-taught Unity / C# developer with 3+ years of programming experience.<br>
 
 ### I focus on:<br>
@@ -11,11 +31,8 @@
 👨‍💻 - 2 commercial game projects<br>
 📚 - [4 game jam projects](https://github.com/whyhvru?tab=repositories&q=gamejam)<br>
 
-### 🌐 [My Links](https://whyhvru.github.io/site-social-links/)
+<h1 align="center">💻 Tech Stack</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyhvru)](https://github.com/whyhvru/github-readme-stats)
-
-# 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
