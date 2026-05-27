@@ -26,28 +26,27 @@
 
 <p align="center">👨‍💻 22 y.o. self-taught Unity / C# developer with 3+ years of programming experience.</p>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
+<table align="center" border="0">
+  <tr border="0">
+    <td width="50%" valign="top" border="0">
 
-### 🚀 I focus on:
+<h3>🚀 I focus on:</h3>
 
-- 🎮 gameplay systems
-- 🚀 game architecture
-- 🌐 multiplayer features
-- 🕹️ tools and pipelines
+- 🎮 gameplay systems  
+- 🚀 game architecture  
+- 🌐 multiplayer features  
+- 🕹️ tools and pipelines  
 
-  </td>
+    </td>
 
-  <td valign="top" width="50%">
+    <td width="50%" valign="top" border="0">
 
+<h3>💼 Worked on:</h3>
 
-### 💼 Worked on:
+- 👨‍💻 2 commercial game projects  
+- 📚 <a href="https://github.com/whyhvru?tab=repositories&q=gamejam">4 game jam projects</a>
 
-- 👨‍💻 2 commercial game projects
-- 📚 [4 game jam projects](https://github.com/whyhvru?tab=repositories&q=gamejam)
-
-  </td>
+    </td>
   </tr>
 </table>
 
