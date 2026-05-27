@@ -26,7 +26,7 @@
 
 👨‍💻 22 y.o. self-taught Unity / C# developer with 3+ years of programming experience.
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
 
