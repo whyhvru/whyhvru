@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Didar 👋
-👨‍💻 22 y.o. self-taught Unity / C# developer with 4+ years of programming experience.<br>
+👨‍💻 22 y.o. self-taught Unity / C# developer with 3+ years of programming experience.<br>
 
 ### I focus on:<br>
 🎮 - gameplay systems<br>
