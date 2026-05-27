@@ -24,7 +24,7 @@
 
 <h1 align="center"><a href="https://whyhvru.github.io/site-social-links/">🌊 whyhvru</a></h1>
 
-👨‍💻 22 y.o. self-taught Unity / C# developer with 3+ years of programming experience.
+<p align="center">👨‍💻 22 y.o. self-taught Unity / C# developer with 3+ years of programming experience.</p>
 
 <table align="center">
   <tr>
