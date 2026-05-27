@@ -2,8 +2,6 @@
   <img width="900" src="banner.png"  />
 </div>
 
-<!-- about me -->
-
 <h1>whyhvru</h1>
 
 <div>
@@ -17,7 +15,7 @@ with 3+ years of programming experience.<br><br>
 I love playing and making games. ❤️
 </div>
 
-<!-- tech stack -->
+<hr>
 
 <div align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="32" alt="C#" />
@@ -28,8 +26,6 @@ I love playing and making games. ❤️
 <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" height="32" alt="Adobe Premiere Pro" />
 <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=aseprite&logoColor=7D929E" height="32" alt="Aseprite" />
 </div>
-
-<!-- footer -->
 
 <p align="center">
   <sub>Gameplay systems · Game architecture · Multiplayer · Tools</sub>
