@@ -30,6 +30,8 @@ with 3+ years of programming experience.<br><br>
   </a>
 </div>
 
+<p></p>
+
 <!-- tech stack -->
 
 <div align="center">
@@ -41,6 +43,8 @@ with 3+ years of programming experience.<br><br>
 <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" height="32" alt="Adobe Premiere Pro" />
 <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=aseprite&logoColor=7D929E" height="32" alt="Aseprite" />
 </div>
+
+<p></p>
 
 <!-- profile views -->
 
