@@ -4,31 +4,18 @@
 
 <h1 align="center"><a href="https://whyhvru.github.io/site-social-links/">🌊 whyhvru</a></h1>
 
-<p align="center">👨‍💻 22 y.o. self-taught Unity / C# developer with 3+ years of programming experience.</p>
+<!-- about me -->
 
-<table align="center" border="0">
-  <tr border="0">
-    <td width="50%" valign="top" border="0">
+<div align="center">
+22 y.o. self-taught Unity / C# developer<br>
+with 3+ years of programming experience.<br>
 
-<h3>🚀 I focus on:</h3>
+💼 Worked on:<br>
+👨‍💻 2 commercial game projects<br>
+📚 <a href="https://github.com/whyhvru?tab=repositories&q=gamejam">4 game jam projects</a>
+</div>
 
-- 🎮 gameplay systems  
-- 🚀 game architecture  
-- 🌐 multiplayer features  
-- 🕹️ tools and pipelines  
-
-    </td>
-
-    <td width="50%" valign="top" border="0">
-
-<h3>💼 Worked on:</h3>
-
-- 👨‍💻 2 commercial game projects  
-- 📚 <a href="https://github.com/whyhvru?tab=repositories&q=gamejam">4 game jam projects</a>
-
-    </td>
-  </tr>
-</table>
+<!-- socials -->
 
 <div align="center">
   <a href="https://t.me/whyhvru" target="_blank">
@@ -42,14 +29,17 @@
   </a>
 </div>
 
+<!-- profile views -->
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=whyhvru&color=blue"  />
 </div>
 
 <hr style="height: 5px">
 
-<div align="center">
+<!-- tech stack -->
 
+<div align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="32" alt="C#" />
 <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" height="32" alt="Unity" />
 <img src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=white" height="32" alt="Steam" />
@@ -57,8 +47,9 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="32" alt="Adobe Photoshop" />
 <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" height="32" alt="Adobe Premiere Pro" />
 <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=aseprite&logoColor=7D929E" height="32" alt="Aseprite" />
-
 </div>
+
+<!-- footer -->
 
 <p align="center">
   <sub>Gameplay systems · Game architecture · Multiplayer · Tools</sub>
