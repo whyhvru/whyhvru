@@ -7,8 +7,8 @@
 <!-- about me -->
 
 <div align="center">
-22 y.o. self-taught Unity / C# developer<br>
-with 3+ years of programming experience.<br>
+22 y.o. self-taught Unity / C# developer
+with 3+ years of programming experience.<br><br>
 
 💼 Worked on:<br>
 👨‍💻 2 commercial game projects<br>
