@@ -24,17 +24,32 @@
 
 <h1 align="center"><a href="https://whyhvru.github.io/site-social-links/">🌊 whyhvru</a></h1>
 
-👨‍💻 22 y.o. self-taught Unity / C# developer with 3+ years of programming experience.<br>
+👨‍💻 22 y.o. self-taught Unity / C# developer with 3+ years of programming experience.
 
-### I focus on:<br>
-🎮 - gameplay systems<br>
-🚀 - game architecture<br>
-🌐 - multiplayer features<br>
-🕹️ - tools and pipelines<br>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-### Worked on:<br>
-👨‍💻 - 2 commercial game projects<br>
-📚 - [4 game jam projects](https://github.com/whyhvru?tab=repositories&q=gamejam)<br>
+### 🚀 I focus on:
+
+- 🎮 gameplay systems
+- 🚀 game architecture
+- 🌐 multiplayer features
+- 🕹️ tools and pipelines
+
+  </td>
+
+  <td valign="top" width="50%">
+
+
+### 💼 Worked on:
+
+- 👨‍💻 2 commercial game projects
+- 📚 [4 game jam projects](https://github.com/whyhvru?tab=repositories&q=gamejam)
+
+  </td>
+  </tr>
+</table>
 
 <h1 align="center">💻 Tech Stack</h1>
 
