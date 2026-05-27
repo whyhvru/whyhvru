@@ -14,6 +14,7 @@ with 3+ years of programming experience.<br><br>
 👨‍💻 2 commercial game projects<br>
 📚 <a href="https://github.com/whyhvru?tab=repositories&q=gamejam">4 game jam projects</a>
 </div>
+<br>
 
 <!-- socials -->
 
@@ -28,7 +29,6 @@ with 3+ years of programming experience.<br><br>
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"/>
   </a>
 </div>
-<br>
 
 <!-- profile views -->
 
